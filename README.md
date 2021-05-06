@@ -1,2 +1,2 @@
-# oil_machine
+# shuck-cut
 Remove dead frames from video
